@@ -1,0 +1,1 @@
+api_key = ENV['NASA_API_KEY']
